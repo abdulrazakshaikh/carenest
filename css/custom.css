@@ -237,6 +237,8 @@ position: absolute;
   .content-wrap{padding-top: 0px;}
   .banner-title{font-size: 32px; font-weight: 700; line-height: normal;}
   .media-services{margin-bottom: 1.5rem;}
+  .footer-wrapper .copylink-wrap{justify-content: center;}
+  .social-wrap{text-align: center !important; margin-top: 30px;}
 }
 @media (max-width: 991px) {
   .offcanvas-collapse {
