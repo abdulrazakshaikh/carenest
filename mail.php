@@ -5,7 +5,7 @@ $phone = $_POST['phone'];
 $designation = $_POST['designation'];
 $description = $_POST['description'];
 $formcontent="Name: $name \nContact No.: $phone \nDesignation.: $designation \nDescription: $description";
-$recipient = "89abdul@gmail.com";
+$recipient = "info@carenest.co";
 $subject = "CareNest - Requesting Quote";
 $mailheader = "From: $email \r\n";
 mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
