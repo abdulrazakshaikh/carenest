@@ -80,7 +80,7 @@ a:focus, button:focus{
 
 .content-wrap{padding-top: calc(var(--headerheight-desktop));}
 .inner-content-wrap{min-height: calc(100vh - 70px);  padding-top: calc(var(--headerheight-desktop));}
-.banner-head{min-height: 50vh; display: flex; align-items: center; background-color: #2bb878;}
+.banner-head{min-height: 65vh; display: flex; align-items: center; background-color: #2bb878;}
 .about-head{min-height: auto !important; height: 100px; padding: 0 !important;}
 
 .banner-title{
